@@ -100,7 +100,7 @@ class Screen(BoxLayout): # Main view
             print("<<<End<<")
     
     
-class KeditApp(App):
+class keditApp(App):
     def build(self):
         return Screen()
 
